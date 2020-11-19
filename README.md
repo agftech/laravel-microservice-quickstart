@@ -1,6 +1,6 @@
 > ## Description
 > 
-> Tis is the video catalog microservice
+> This is the video catalog microservice
 >
 > ## Run the application
 >
